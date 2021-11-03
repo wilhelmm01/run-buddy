@@ -226,13 +226,13 @@ footer a {
       margin: 30px 0 0 60px;
       color: white;
   }
-  .contact h3 {
+  .contact-info h3 {
     color: #fce138;
     font-size: 32px
   }
 
-  .contact p,
-  .contact address {
+  .contact-info p,
+  .contact-info address {
     margin: 20px 0;
     line-height: 1.5;
     font-size: 20px;
@@ -240,6 +240,6 @@ footer a {
   }
 
   
-  .contact a {
+  .contact-info a {
     color: #fce138;
   }
